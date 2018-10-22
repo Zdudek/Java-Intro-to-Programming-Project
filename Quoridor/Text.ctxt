@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Text()
+comment0.text=\r\n\ default\ contructor\r\n
+comment1.params=message
+comment1.target=Text(java.lang.String)
+comment1.text=\r\n\ constructor\ -\ we\ just\ create\ a\ text\ image\r\n
+numComments=2

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=r\ c
+comment0.target=Coord(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ piece\ -\ creates\ coordinate\ for\ piece\r\n
+comment1.params=r\ c\ o
+comment1.target=Coord(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ wall\ -\ creates\ coordinate\ for\ wall\r\n
+comment2.params=
+comment2.target=int\ getRow()
+comment2.text=\r\n\ getRow\ -\ returns\ row\r\n
+comment3.params=
+comment3.target=int\ getCol()
+comment3.text=\r\n\ getCol\ -\ returns\ col\r\n
+comment4.params=
+comment4.target=int\ getOrient()
+comment4.text=\r\n\ getOrient\ -\ returns\ wall\ orientation\r\n
+comment5.params=
+comment5.target=boolean\ isWall()
+comment5.text=\r\n\ isWall\ -\ returns\ true\ if\ wall\r\n
+comment6.params=
+comment6.target=boolean\ isPiece()
+comment6.text=\r\n\ isPiece\ -\ return\ true\ if\ piece\r\n
+numComments=7

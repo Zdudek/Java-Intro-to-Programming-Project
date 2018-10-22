@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=r\ c\ o
+comment0.target=Wall(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ Wall\r\n
+comment1.params=index
+comment1.target=void\ setRow(int)
+comment1.text=\r\n\ setRow\ -\ setter\ for\ row\r\n
+comment2.params=
+comment2.target=int\ getRow()
+comment2.text=\r\n\ getRow\ -\ getter\ for\ row\r\n
+comment3.params=index
+comment3.target=void\ setCol(int)
+comment3.text=\r\n\ setCol\ -\ setter\ for\ col\r\n
+comment4.params=
+comment4.target=int\ getCol()
+comment4.text=\r\n\ getCol\ -\ getter\ for\ col\r\n
+comment5.params=orientation
+comment5.target=void\ setOrient(int)
+comment5.text=\r\n\ setOrient\ -\ setter\ for\ orient\r\n
+comment6.params=
+comment6.target=int\ getOrient()
+comment6.text=\r\n\ getOrient\ -\ getter\ for\ orient\r\n
+numComments=7

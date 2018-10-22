@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=row\ col\ goal\ color
+comment0.target=BelisleDudekk(int,\ int,\ int,\ java.lang.String)
+comment0.text=\r\n\ Random\ constructor\ -\ initializes\ random\ player\r\n
+comment1.params=
+comment1.target=java.lang.String\ teamName()
+comment1.text=\r\n\ teamName\ -\ returns\ the\ team\ name.\r\n
+comment2.params=route
+comment2.target=int\ getPathLength(java.lang.String)
+comment2.text=\r\n\ getTreeLength\ -\ get\ number\ of\ steps\ in\ route\ path\r\n
+comment3.params=opponent
+comment3.target=Coord\ move(Player)
+comment3.text=\r\n\ move\ -\ Make\ the\ player\ do\ an\ action\r\n
+comment4.params=opponent\ row\ col\ orient
+comment4.target=boolean\ isValidWall(Player,\ int,\ int,\ int)
+comment4.text=\r\n\ isValidWall\ -\ check\ for\ valid\ wall\ placement\r\n
+comment5.params=opponent
+comment5.target=Coord\ placeWall(Player)
+comment5.text=\r\n\ placeWall\ -\ chooses\ row,\ col\ to\ add\ wall\ to\ the\ board\r\n
+comment6.params=opponent
+comment6.target=Coord\ movePlayer(Player)
+comment6.text=\r\n\ movePlayer\ -\ chooses\ \ row,\ col\ for\ player\ to\ move\ to.\r\n
+numComments=7

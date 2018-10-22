@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=row\ col\ goal\ color
+comment0.target=SPWalker(int,\ int,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ teamName()
+comment2.params=opponent
+comment2.target=Coord\ move(Player)
+numComments=3

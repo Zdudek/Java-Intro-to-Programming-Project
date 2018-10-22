@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=row\ col\ goal\ color
+comment0.target=PureRandom(int,\ int,\ int,\ java.lang.String)
+comment0.text=\r\n\ Random\ constructor\ -\ initializes\ random\ player\r\n
+comment1.params=
+comment1.target=java.lang.String\ teamName()
+comment1.text=\r\n\ teamName\ -\ returns\ the\ team\ name.\ This\ should\ be\ SAME\ AS\ CLASS\ NAME\!\r\n
+comment2.params=opponent
+comment2.target=Coord\ move(Player)
+comment2.text=\r\n\ move\ -\ make\ a\ random\ move\ randomly.\r\n
+comment3.params=opponent
+comment3.target=Coord\ movePlayer(Player)
+comment3.text=\r\n\ movePlayer\ -\ move\ player\r\n
+comment4.params=opponent
+comment4.target=Coord\ placeWall(Player)
+comment4.text=\r\n\ placeWall\ -\ chooses\ row,\ col\ to\ add\ wall\ to\ the\ board\r\n
+numComments=5
